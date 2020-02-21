@@ -1,2 +1,2 @@
-# -Classification-using-SVM-Naive-Bayes-and-KNN-Models
+# Classification-using-SVM-Naive-Bayes-and-KNN-Models
 
